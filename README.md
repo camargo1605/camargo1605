@@ -13,4 +13,4 @@ SQL | Python | Inteligência Artificial
 
 Tecnologias que uso constatimente
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo1605&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo1605&hide_progress=dracula)
