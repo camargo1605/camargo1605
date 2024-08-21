@@ -8,3 +8,5 @@ HTML | CSS | JavaScript | Java | Banco de dados
 SQL | Python | Inteligência Artificial
 
 👨‍💻 Estou determinado a iniciar minha carreira no mercado de tecnologia e contribuir de maneira significativa para projetos inovadores.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
