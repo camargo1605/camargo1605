@@ -12,6 +12,6 @@ SQL | Python | Inteligência Artificial
 ![Camargo GitHub stats](https://github-readme-stats.vercel.app/api?username=camargo1605&show_icons=true&theme=dracula)
 
 Tecnologias que uso constatimente
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo1605&hide_progress=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo1605&hide_progress=dracula)
 
 
